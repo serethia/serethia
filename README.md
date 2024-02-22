@@ -1,16 +1,48 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20Sewon%20Oum&fontSize=70)
 
-<!--
-**serethia/serethia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align=center><h1>🛠 TECH STACK 🛠</h1></div>
+<div align=center>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230492C2.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <br/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF">
+  <br/>
+  <img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/notion-%23FFF8E7.svg?style=for-the-badge&logo=notion&logoColor=black">
+  <img alt="Swagger" src="https://img.shields.io/badge/swagger-%2319B6B5.svg?style=for-the-badge&logo=swagger&logoColor=white">
+  <img alt="Jira" src="https://img.shields.io/badge/jira-%23283ec2.svg?style=for-the-badge&logo=jira&logoColor=white">
+   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+<div align=center><h1>📚 STUDYING 📚</h1></div>
+<div align=center>
+  <img alt="React.js" src="https://img.shields.io/badge/react.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=lightblue">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind css-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=lightgreen">
+   <img alt="Recoil" src="https://img.shields.io/badge/recoil-%233944BC.svg?style=for-the-badge&logo=recoil&logoColor=white">
+   <img alt="Redux" src="https://img.shields.io/badge/redux-%23B1F2FF.svg?style=for-the-badge&logo=redux&logoColor=purple">
+  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23E2F9FE.svg?style=for-the-badge&logo=typescript&logoColor=blue">
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div align=center>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sewon0306" alt="Solved.ac profile" />
+</div>
+
+<br/>
+<br/>
+
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsewon0306%2Fhit-counter&count_bg=%23D086E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
