@@ -29,7 +29,6 @@
 <div align=center>
   <img alt="React.js" src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind css-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=lightgreen">
-  <img alt="Recoil" src="https://img.shields.io/badge/recoil-%233944BC.svg?style=for-the-badge&logo=recoil&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <br/>
