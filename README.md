@@ -16,8 +16,9 @@
   <img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/notion-%23FFF8E7.svg?style=for-the-badge&logo=notion&logoColor=black">
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/jira-%23283ec2.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <br/>
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
@@ -29,6 +30,7 @@
 <div align=center>
   <img alt="React.js" src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind css-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=lightgreen">
+  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <br/>
@@ -36,8 +38,6 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 
   <br/>
-  <img alt="Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </div>
 
