@@ -5,15 +5,17 @@
 <div align=center><h1>🛠 TECH STACK 🛠</h1></div>
 <div align=center>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/spring data jpa-6DB33F?style=for-the-badge&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <br/>
+  <img alt="JUnit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  <img alt="TestContainers" src="https://img.shields.io/badge/testcontainers-A374DB?style=for-the-badge&logo=testcontainers&logoColor=white">  
+  <img alt="BDDMockito" src="https://img.shields.io/badge/BDDMockito-FEDF04?style=for-the-badge&logo=BDDMockito&logoColor=white">
   <br/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img alt="VueJs" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF">
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <br/>
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="ReactJs" src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
